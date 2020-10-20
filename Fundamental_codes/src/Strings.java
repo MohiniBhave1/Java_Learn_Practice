@@ -16,7 +16,7 @@ public class Strings {
         int myInt = 50;
         lastString = lastString + myInt;
         System.out.println("Last string is equal to " + lastString);
-        
+
 
     }
 }
